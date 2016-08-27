@@ -19,3 +19,5 @@ http://www.amazon.com/gp/product/B00XJ23W5Q?psc=1&redirect=true&ref_=oh_aui_deta
 Standard RJ45 Keystone jack
 
 Molex 8981 male connector, I cut one off a $1 Molex to SATA power adapter.
+
+![Pi Blade center](https://github.com/InventorForgeMakerspace/3dFiles/blob/master/Pi_PC_Case_And_Blade_Center/pi_blade_preview_featured.JPG "Pi Blade Center")
