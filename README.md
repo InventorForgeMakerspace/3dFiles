@@ -6,6 +6,8 @@ PrintName
 
 -README.md   this include a description of the file, any required hardware and print settings
 
+-Images.jpg  any preview images you have
+
 -STL_Files   this is where your STL files go
 
 ----files.stl
