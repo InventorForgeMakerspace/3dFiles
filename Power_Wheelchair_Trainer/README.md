@@ -16,4 +16,6 @@ In addition to the 3d printed parts, you'll need
 
 1 sound trigger, if you want sound (http://www.amazon.com/Adafruit-Audio-FX-Sound-Board/dp/B00Q3U42DM?ie=UTF8&psc=1&redirect=true&ref_=oh_aui_detailpage_o03_s00)
 
-1 RJ45 keystone (http://www.amazon.com/Generic-10-pack-Keystone-Punch-Down-Ethernet/dp/B014RAT7ZC/ref=sr_1_3?s=electronics&ie=UTF8&qid=1459951580&sr=1-3-spons&keywords=RJ45+keystone&psc=1)
+2 RJ45 keystone (http://www.amazon.com/Generic-10-pack-Keystone-Punch-Down-Ethernet/dp/B014RAT7ZC/ref=sr_1_3?s=electronics&ie=UTF8&qid=1459951580&sr=1-3-spons&keywords=RJ45+keystone&psc=1)
+
+![Power chair trainer](https://github.com/InventorForgeMakerspace/3dFiles/blob/master/Power_Wheelchair_Trainer/678c31e8b371bddc10ee6439d9839e84_preview_featured.jpg "Power chair trainer")
