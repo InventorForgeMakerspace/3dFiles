@@ -3,3 +3,5 @@ with a small microcontroller that is capable of controlling a servo.
 
 The servo needs to be very tiny, I'm using a sub micro servo https://amzn.com/B004O76G6W
 
+![Mad Eye](https://github.com/InventorForgeMakerspace/3dFiles/blob/master/Mad_Eye_Moody_Eye/mem_eye.PNG "Mad Eye Moody")
+
