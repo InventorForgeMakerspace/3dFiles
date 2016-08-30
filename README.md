@@ -1,17 +1,4 @@
 # 3dFiles
 
-Please organize your 3d files in this fashion
+Just some interesting 3D files that we've collected. Each project has a different directory in the root of this repo, and most are unrelated to each other.
 
-PrintName
-
--README.md   this include a description of the file, any required hardware and print settings
-
--Images.jpg  any preview images you have
-
--STL_Files   this is where your STL files go
-
-----files.stl
-
--Source_Files This is where source (non mesh) files go if you intend to include them
-
-----files.3ds (or whatever) 
