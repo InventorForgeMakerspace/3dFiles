@@ -1,5 +1,4 @@
-This is a moving Mad Eye Movie magical eye prop for a costume.  This piece is meant to be mounted to an eye patch and controlled 
-with a small microcontroller that is capable of controlling a servo. 
+This is a moving Mad Eye Movie magical eye prop for a costume. The case is designed to print in 2 parts and then get glued together. The handles on the side of the case are for the straps to hold the case to your eye. Be sure to place cloth or some other protective item behind the case to keep stray bits from getting into your eye.  
 
 The servo needs to be very tiny, I'm using a sub micro servo https://amzn.com/B004O76G6W
 
